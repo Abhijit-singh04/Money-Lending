@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "gfggoogle",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

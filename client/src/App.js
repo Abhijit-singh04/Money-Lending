@@ -1,9 +1,12 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import Register from './register/Register';
+import Landing from './Component/Landing/Landing';
 
 function App() {
   return (
-    <h1><h2>hello from abhijit singh</h2></h1>
+    // <Register/>
+    <Landing/>
   );
 }
 

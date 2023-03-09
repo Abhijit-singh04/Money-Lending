@@ -225,7 +225,7 @@ function Landing() {
       </motion.div>
 
       <Card/>
-      <h1>helllo</h1>
+     
 
 
 

@@ -5,7 +5,7 @@ import Landing from './Component/Landing/Landing';
 
 function App() {
   return (
-    // <Register/>
+    <Register/>
 //Landing starts here
     <Landing/>
   );

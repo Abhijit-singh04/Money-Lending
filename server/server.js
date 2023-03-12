@@ -6,7 +6,7 @@ if (process.env.NODE_ENV !== 'production') {
 const express = require('express')
 const app = express()
 
-//connecting to databse
+//connecting to databses
 const db = require('./db/connect')
 
 
